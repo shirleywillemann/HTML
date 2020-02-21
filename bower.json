@@ -1,0 +1,27 @@
+{
+  "name": "HTML",
+  "homepage": "https://github.com/shirleywillemann/HTML",
+  "authors": [
+    "shirleywillemann <shirleywillemann@users.noreply.github.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.4.1",
+    "font-awesome": "^5.12.1",
+    "breakpoint-sass": "^2.7.1",
+    "bootstrap": "^4.4.1"
+  },
+  "devDependencies": {
+    "bootstrap-sass": "^3.4.1"
+  }
+}
